@@ -7,6 +7,7 @@ public class Main
     {
         System.out.println("Test GIT1");
         System.out.println("Test GIT2");
+        System.out.println("Test GIT3");
         
         
     }
